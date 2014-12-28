@@ -71,6 +71,7 @@ library
                    System.Taffybar.CommandRunner,
                    System.Taffybar.DiskIOMonitor,
                    System.Taffybar.FSMonitor,
+                   System.Taffybar.Kbd,
                    System.Taffybar.LayoutSwitcher,
                    System.Taffybar.NetMonitor,
                    System.Taffybar.Pager,
